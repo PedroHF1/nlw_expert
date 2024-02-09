@@ -3,6 +3,7 @@
 
 Neste projeto foi utilizado React e Tailwind, e funciona como um app de notas, 
 onde você adiciona uma nota tanto digitando como por gravação de voz, e são listadas suas notas!
+Deploy: https://pedrohf1.github.io/nlw_expert/
 
 ![nlwexpert2](https://github.com/PedroHF1/nlw_expert/assets/126522958/3ec55c28-0d52-4b71-aa5a-a20de5b343fc)
 
